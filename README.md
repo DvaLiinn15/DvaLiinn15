@@ -1,4 +1,4 @@
-### Hola, soy José 👋
+### Hola, soy José 
 
 Estudiante de **Ingeniería Informática** en el Instituto Tecnológico de Cd. Altamirano.
 Desarrollo aplicaciones web, sistemas de monitoreo y proyectos con sensores IoT.
