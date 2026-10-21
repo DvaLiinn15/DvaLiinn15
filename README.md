@@ -1,16 +1,20 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**DvaLiinn15/DvaLiinn15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hola, soy José 👋
 
-Here are some ideas to get you started:
+Estudiante de **Ingeniería Informática** en el Instituto Tecnológico de Cd. Altamirano.
+Desarrollo aplicaciones web, sistemas de monitoreo y proyectos con sensores IoT.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Lenguajes y tecnologías
+
+![Skills](https://skillicons.dev/icons?i=php,laravel,js,html,css,python,mysql,git,github)
+
+### 📊 Lenguajes más usados
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DvaLiinn15&layout=compact&theme=dark&hide_border=true&langs_count=8)
+
+### 📫 Contacto
+
+[![GitHub](https://img.shields.io/badge/GitHub-DvaLiinn15-181717?style=flat&logo=github)](https://github.com/DvaLiinn15)
+
+</div>
